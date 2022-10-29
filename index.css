@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+}
+nav{
+    margin-top: 17px;
+    
+}
+.list {
+    
+    display: flex;
+}
+.list-it{
+
+    
+    margin-top: 20px;
+}
+
+.list-it a{
+  font-weight: 400;
+font-size: 15px;
+text-decoration: none;
+color: #222222;
+margin-left: 20px;
+align-items: center;
+
+}
+.btnprimary{
+    
+    
+    font-weight: 400;
+    font-size: 13px;
+    padding: 10px 16px;
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #FFFFFF;
+    background: #2F2F2F;
+    border-radius: 20px;
+    margin-left: 50px;
+
+}
+
+.fa-brands{
+    margin-left: 15px;
+}
+.flexdiv{
+    display: flex;
+    align-items: center;
+    
+}
+.ex{
+    padding-top: 250px;
+/* text-align: center;  */
+font-weight: 400;
+font-size: 13px;
+letter-spacing: 0.48px;
+color: #82CBAC;
+}
+.change{
+    
+font-weight: 400;
+font-size: 64px;
+line-height: 64px;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+}
+.suspe{
+    padding-top: 25px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    color: #2F2F2F;
+    }
+    
+    .images{
+        margin-top: 110px;
+        position: relative;
+    }
+    .boy{
+        position: absolute;
+        top: -50px;
+        left: -150px;
+    }
+    .girl{
+        position: absolute;
+        top: 100px;
+        
+    }
+    .rasmlar{
+        padding-top: 350px;
+        text-align: center;
+        position: relative;
+    }
+    .qator10{
+        position: absolute;
+        left: 0px;
+    }
+    .qator{
+        position: absolute;
+        left: 10px;
+       
+    }
+    .qator1{
+        position: absolute;
+        left: 103px;
+        left: 152px;
+       
+    }
+    .qator2{
+        position: absolute;
+        left: 304px;
+       
+    }
+    .qator3{
+        position: absolute;
+        left: 456px;
+       
+    }
+    .qator4{
+        position: absolute;
+        left: 608px;
+       
+    }
+    .qator5{
+        position: absolute;
+        left: 760px;
+       
+    }
+    .qator6{
+        position: absolute;
+        left: 912px;
+       
+    }
+    .qator7{
+        position: absolute;
+        left: 1064px;
+       
+    }
+    .qator8{
+        position: absolute;
+        left: 1216px;
+       
+    }
+    .qator9{
+        position: absolute;
+        left: 1368px;
+       
+    }
+    .soz{
+        padding-top: 300px;
+    }
+    .hey{
+        font-weight: 400;
+        font-size: 64px;
+        text-align: center;
+        /* letter-spacing: 0.48px; */
+        color: #2F2F2F;
+}
+    .pero{
+       
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+text-align: center;
+color: #2F2F2F;
+margin-bottom: 83px;
+    }
