@@ -158,7 +158,6 @@ color: #2F2F2F;
         font-weight: 400;
         font-size: 64px;
         text-align: center;
-        /* letter-spacing: 0.48px; */
         color: #2F2F2F;
 }
     .pero{
@@ -170,3 +169,213 @@ text-align: center;
 color: #2F2F2F;
 margin-bottom: 83px;
     }
+    /* -----------------------------------------------end-------------------------------------- */
+    .jack{
+        background: #2F2F2F;
+        border: 1px solid #2F2F2F;
+        border-radius: 30px;
+        font-weight: 400;
+        font-size: 22px;
+        text-align: center;
+        color: #FFFFFF;
+        padding: 11px 65px 17px 66px;
+        }
+.suni{
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    color: #2F2F2F;
+    padding: 11px 65px 17px 66px;
+    border: 1px solid #2F2F2F;
+    border-radius: 30px;
+    background: white;
+    margin-left: 8px;
+}
+.child{
+    padding-top: 64px;
+    padding-bottom: 146px;
+}
+.digital{
+  
+font-weight: 400;
+font-size: 16px;
+color: #FF7F96;
+padding-top: 111px;
+}
+.pellente{
+ 
+font-weight: 400;
+font-size: 36px;
+line-height: 36px;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+}
+.suspendi{
+ 
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: 0.48px;
+color: #2F2F2F;
+}
+.our{
+  
+font-weight: 400;
+font-size: 35px;
+text-transform: uppercase;
+color: #2F2F2F;
+padding-top: 60px;
+}
+.um{
+  
+font-weight: 400;
+font-size: 48px;
+line-height: 48px;
+color: #2F2F2F;
+}
+.nulla{
+  
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #2F2F2F;
+padding-top: 38px;
+padding-bottom: 32px;
+}
+.codx{
+    margin-left: 449px;
+background: #2F2F2F;
+border-radius: 0px;
+font-weight: 700;
+font-size: 15px;
+text-align: center;
+color: #FFFFFF;
+padding: 12px 40px;
+
+}
+.photos{
+    padding-top: 148px;
+    margin-left: 100px;
+}
+.motion{
+ 
+font-weight: 700;
+font-size: 35px;
+color: #2F2F2F;
+
+}
+.motio{
+    font-weight: 700;
+font-size: 35px;
+color: #2F2F2F;
+
+}
+.suspem{
+
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+color: #2F2F2F;
+padding-bottom: 32px;
+}
+.nig{
+    padding-top: 63px;
+    padding-bottom: 141px;
+}
+/* ----------------------------------------end------------------------------ */
+.boygirl{
+    padding-bottom: 100px;
+   }
+.browse{
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    color: #2F2F2F;
+    padding-bottom: 73px;
+   
+}
+.colleb{
+    padding-top: 29px;
+    font-weight: 700;
+    font-size: 26px;
+    color: #2F2F2F;
+    padding-bottom: 101px;
+  }
+.verb{
+  
+font-weight: 700;
+font-size: 14px;
+/* text-align: center; */
+color: #FFFFFF;
+background: #2F2F2F;
+border-radius: 0px;
+padding: 12px 40px;
+margin-left: 550px;
+
+}
+.top{
+    padding-top: 95px;
+    
+font-weight: 400;
+font-size: 64px;
+text-align: center;
+color: #2F2F2F;
+}
+.bear2{
+    padding-top: 42px;
+}
+.faq{
+    font-weight: 400;
+    font-size: 64px;
+    text-align: center;
+    color: #2F2F2F;
+    padding-top: 55px;
+    }
+    .fire{
+        margin-left: 150px;
+        
+    }
+ .donec{
+    margin-top: 77px;
+     font-weight: 400;
+     font-size: 22px;
+     line-height: 24px;
+     color: #2F2F2F;
+      }
+      .fast{
+          margin-top: 65px;
+          color:yellowgreen ;
+          font-size: 30px;
+        }
+        /* .codex{
+            padding-top: 229px;
+    } */
+    .intex{
+        padding-top: 30px;
+        /* padding-bottom: 20px; */
+    }
+    .sign{
+        padding: 12px 32px;
+        width: 45%;
+        background: #F6F6F6;
+        border-radius: 20px;
+       border: none;
+       font-weight: 400;
+       font-size: 14px;
+       color: rgba(47, 47, 47, 0.36);
+       }
+    
+    .yourre{
+        padding: 5px 10px;
+        background: #2F2F2F;
+        border-radius: 20px;
+        /* font-weight: 700; */
+        font-size: 14px;
+        color: #FFFFFF;
+        border: none;
+    }
+.codex{
+    margin-top: 22px;
+    margin-bottom: 20px;
+
+}
